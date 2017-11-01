@@ -8,7 +8,6 @@ __Nơi admin và các mod bàn chuyện đại sự.__
 # #rules
 
 __Một vài quy định cơ bản cần được thực thi.__
-+ Những yêu cầu có thể có lỗ hổng và thiếu sót. Vì vậy, rất cảm kích những đóng góp mang tính xây dựng đến từ cộng đồng.
 + Nếu vi phạm những quy định này, người dùng có thể bị đuổi hoặc chặn khỏi server.
 
 # #announcements
@@ -29,14 +28,12 @@ __???__
 # #everyone
 
 __Nơi chém gió mọi sự trên đời.__
-+ Không công kích cá nhân, giữ phép lịch sự, tôn trọng mọi người.
-+ Hạn chế spam.
-+ Giữ mọi thứ SFW, kể cả lời nói.
++
 
 # #events
 
-__Nơi tổ chức sự kiện quan trọng.__
-+ Nếu muốn quảng cáo cho một sự kiện mà câu lạc bộ dự định tổ chức, vào #ads
+__Nơi thông báo sự kiện quan trọng.__
++ Thường xuyên vào đây để cập nhật về những sự kiện quan trọng xảy ra trong server.
 
 # #images
 
