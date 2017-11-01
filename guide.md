@@ -26,7 +26,7 @@ Role phân chia câu lạc bộ. Role này giúp bạn khoe và quảng cáo cho
 
 `Ngoại đạo`
 
-Những người không phải/ không còn là học sinh HSGS nữa, và lên đây với mục đích chính là hóng.
+Những người không phải là học sinh HSGS, và lên đây với mục đích chính là hóng.
 
 `Lewd`
 
@@ -39,4 +39,4 @@ Với những người đã dành thời gian đọc đến đây, {một_từ_�
 + `Chemistry` : Chuyên Hóa
 + `Biology` : Chuyên Sinh
 + `HQ` : Chất Lượng Cao
-+ `Not HSGS` : Những người không phải/ không còn là học sinh HSGS.
++ `Not HSGS` : Những người không phải là học sinh HSGS.
