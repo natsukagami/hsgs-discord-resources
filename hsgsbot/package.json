@@ -1,0 +1,32 @@
+{
+  "name": "hsgsbot",
+  "version": "1.0.0",
+  "description": "A bot for HSGS Discord server.",
+  "main": "index.js",
+  "repository": "https://github.com/natsukagami/hsgs-discord-resources",
+  "author": "Natsu Kagami",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "bluebird": "^3.5.1",
+    "cross-env": "^5.1.1",
+    "discord.js": "^11.2.1",
+    "erlpack": "^0.1.2",
+    "node-opus": "^0.2.7",
+    "sodium": "^2.0.1",
+    "uws": "^8.14.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0"
+  },
+  "scripts": {
+    "start": "cross-env DEBUG=* node dist/index.js",
+    "postinstall": "yarn build",
+    "prestart": "yarn build",
+    "build": "gulp"
+  }
+}
