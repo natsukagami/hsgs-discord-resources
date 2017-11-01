@@ -1,34 +1,42 @@
 # Lệnh gọi bot
-.roles gimme [Role] : Lấy role cho mình.
+`.roles gimme [Role]` : Lấy role cho mình.
 
 Các Role hiện có trong đây :
 
-##### Infomatics/Physics/Chemistry/Mathematics/Biology/High Quality
+`Infomatics/Physics/Chemistry/Mathematics/Biology/High Quality`
+
 Role phân chia khối chuyên. Role này sẽ giúp bạn trở nên màu mè hơn.
 
-##### Owners
+`Owners`
+
+
 Role của người chủ sở hữu server này.
 
-##### Moderators
+`Moderators`
+
 Role của các Mod, người phụ trách việc kiểm duyệt các bài viết và đảm bảo không có cuộc trò chuyện nào đi quá giới hạn.
 
-##### HSGSBot
+`HSGSBot`
+
 Bot của server, người quản lí các thao tác tự động hóa trong server.
 
-##### HAC/HEC/HVGS/HAPAC
+`HAC/HEC/HVGS/HAPAC`
+
 Role phân chia câu lạc bộ. Role này giúp bạn khoe và quảng cáo cho câu lạc bộ mình.
 
-##### Ngoại đạo
+`Ngoại đạo`
+
 Những người không phải/ không còn là học sinh HSGS nữa, và lên đây với mục đích chính là hóng.
 
-##### Lewd
+`Lewd`
+
 Những người có tâm hồn trong sáng. Role này sẽ giúp bạn vào một vài nơi đặc biệt. ( ͡° ͜ʖ ͡°)
 
 Với những người đã dành thời gian đọc đến đây, {một_từ_đặc_biệt} là một trong số những từ sau đây.
-+ Mathematics : Chuyên Toán
-+ Informatics : Chuyên Tin
-+ Physics : Chuyên Lý
-+ Chemistry : Chuyên Hóa
-+ Biology : Chuyên Sinh
-+ HQ : Chất Lượng Cao
-+ Not HSGS : Những người không phải/ không còn là học sinh HSGS.
++ `Mathematics` : Chuyên Toán
++ `Informatics` : Chuyên Tin
++ `Physics` : Chuyên Lý
++ `Chemistry` : Chuyên Hóa
++ `Biology` : Chuyên Sinh
++ `HQ` : Chất Lượng Cao
++ `Not HSGS` : Những người không phải/ không còn là học sinh HSGS.
