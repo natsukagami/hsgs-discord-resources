@@ -14,10 +14,15 @@
 
 5. Nhớ rằng server này **không ủng hộ bất kì hành vi vi phạm pháp luật hay luật lệ của nhà trường**
   + Quyền riêng tư và cả quyền sở hữu trí tuệ đều nằm trong danh mục này.
-  + Việc mua bán những vật phẩm bị cấm theo pháp luật (pháo, súng, bom, ma túy,...) hoàn toàn bị cấm ở đây. Nếu muốn bàn về những vấn đề nhay cảm như trên thì hãy nhớ dùng não trước khi nhắn tin.
+  + Việc mua bán những vật phẩm bị cấm theo pháp luật (pháo, súng, bom, ma túy,...) hoàn toàn bị cấm ở đây. Nếu muốn bàn về những vấn đề nhạy cảm liên quan đến pháp luật thì hãy nhớ dùng não trước khi nhắn tin.
 
-6. **Tôn trọng các đề nghị và yêu cầu đến từ Admin hoặc Mod.** Có thái độ chống đối với yêu cầu nghiêm túc và thỏa đáng có thể dẫn tới việc bị đuổi hoặc chặn khỏi server.
+6. **Nhớ rằng đây là một server với rất nhiều người** Nếu muốn vào và tham gia giao lưu văn hóa với mọi người, hãy nhập lệnh ".hi iam {một_từ_đặc_biệt}" vào channel ticket-box.
 
-7. Nếu muốn biết thêm thông tin chi tiết về các channel và cách sử dụng, đọc tiếp phần dưới.
+7. **Tôn trọng các đề nghị và yêu cầu đến từ Admin hoặc Mod.** Có thái độ chống đối với yêu cầu nghiêm túc và thỏa đáng có thể dẫn tới việc bị đuổi hoặc chặn khỏi server.
+
+8. **Những yêu cầu có thể có lỗ hổng và thiếu sót.** Vì vậy, rất cảm kích những đóng góp mang tính xây dựng đến từ cộng đồng để giúp server trở nên tốt hơn.
++ Nếu bạn có bất cứ mong muốn hay yêu cầu gì, hãy nhắn cho Admin và Mod. Admin và Mod sẵn sàng thu hồi ý kiến.
+
+9. **Trong server có rất nhiều role được tạo ra để giúp mọi người chạm đến được những nội dung cần tìm đến** Đọc guide để biết thêm chi tiết
 
 Admin và Mod có quyền phạt những người vi phạm một trong những diều khoản trên. Nếu bạn cảm thấy bị đối xử một cách bất công hãy liên hệ @natsukagami#3557.
