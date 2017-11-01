@@ -1,5 +1,5 @@
 # Lệnh gọi bot
-?role Role : Lấy role cho mình.
+.roles gimme [Role] : Lấy role cho mình.
 
 Các Role hiện có trong đây :
 
@@ -23,3 +23,12 @@ Những người không phải/ không còn là học sinh HSGS nữa, và lên 
 
 ##### Lewd
 Những người có tâm hồn trong sáng. Role này sẽ giúp bạn vào một vài nơi đặc biệt. ( ͡° ͜ʖ ͡°)
+
+Với những người đã dành thời gian đọc đến đây, {một_từ_đặc_biệt} là một trong số những từ sau đây.
++ Mathematics : Chuyên Toán
++ Informatics : Chuyên Tin
++ Physics : Chuyên Lý
++ Chemistry : Chuyên Hóa
++ Biology : Chuyên Sinh
++ HQ : Chất Lượng Cao
++ Not HSGS : Những người không phải/ không còn là học sinh HSGS.

@@ -16,7 +16,7 @@
   + Quyền riêng tư và cả quyền sở hữu trí tuệ đều nằm trong danh mục này.
   + Việc mua bán những vật phẩm bị cấm theo pháp luật (pháo, súng, bom, ma túy,...) hoàn toàn bị cấm ở đây. Nếu muốn bàn về những vấn đề nhạy cảm liên quan đến pháp luật thì hãy nhớ dùng não trước khi nhắn tin.
 
-6. **Nhớ rằng đây là một server với rất nhiều người** Nếu muốn vào và tham gia giao lưu văn hóa với mọi người, hãy nhập lệnh "?ticket" vào channel ticket-box.
+6. **Nhớ rằng đây là một server với rất nhiều người** Nếu muốn vào và tham gia giao lưu văn hóa với mọi người, hãy nhập lệnh ".hi iam {một_từ_đặc_biệt}" vào channel ticket-box.
 
 7. **Tôn trọng các đề nghị và yêu cầu đến từ Admin hoặc Mod.** Có thái độ chống đối với yêu cầu nghiêm túc và thỏa đáng có thể dẫn tới việc bị đuổi hoặc chặn khỏi server.
 
