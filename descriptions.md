@@ -2,13 +2,13 @@
 
 __Nơi admin và các mod bàn chuyện đại sự.__
 + Channel đặc biệt mà không ai ngoài mod và admin vào được.
-+ Hạn chế bàn những vấn đề không quan trọng (VD : Shitpost, Futanari ...).
++ Hạn chế bàn những vấn đề không quan trọng (VD : Shitpost,...).
 + Không công kích cá nhân, chia bè kéo cánh.
 
 # #rules
 
 __Một vài quy định cơ bản cần được thực thi.__
-+ Nếu vi phạm những quy định này, người dùng có thể bị đuổi hoặc chặn khỏi server.
++ Nhớ đọc kĩ hướng dẫn sử dụng trước khi dùng.
 
 # #announcements
 
@@ -23,12 +23,14 @@ __Nơi chào đón những người mới đến với server.__
 
 # #ticket-box
 
-__???__
+__Xuất trình thẻ học sinh nào :b:ạn!__
++ Cái channel này tồn tại để làm gì nhỉ. :thinking:
 
 # #everyone
 
 __Nơi chém gió mọi sự trên đời.__
-+
++ Không giới hạn chủ đề đề cập tới.
++ Hạn chế đăng ảnh để khiến cuộc trò chuyện bị trôi.
 
 # #events
 
@@ -38,13 +40,12 @@ __Nơi thông báo sự kiện quan trọng.__
 # #images
 
 __Nơi mọi người spam ảnh thỏa thích.__
-+ Giữ mọi thứ SFW.
-+ Nếu muốn đăng văn hóa phẩm đồi trụy thì yêu cầu đến #vanilla-nsfw hay #hardcore-nsfw hoặc gửi cho ad và mod. ( ͡° ͜ʖ ͡°)
++ Tự tin khoe cá tính bằng việc share ảnh cho tất cả mọi người (meme, ảnh selfie, artwork, ...).
 
 # #ads
 
 __Nơi quảng cáo__
-+ Ai cần quảng cáo ở đây nhớ liên hệ @Moderators
++ Nhớ đừng đăng những nội dung quảng cáo không lành mạnh lên đây.
 
 # #bot-commands
 

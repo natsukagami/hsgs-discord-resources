@@ -23,4 +23,6 @@
 8. **Những yêu cầu có thể có lỗ hổng và thiếu sót.** Vì vậy, rất cảm kích những đóng góp mang tính xây dựng đến từ cộng đồng để giúp server trở nên tốt hơn.
 + Nếu bạn có bất cứ mong muốn hay yêu cầu gì, hãy nhắn cho Admin và Mod. Admin và Mod sẵn sàng thu hồi ý kiến.
 
+9. **Trong server có rất nhiều role được tạo ra để giúp mọi người chạm đến được những nội dung cần tìm đến** Đọc guide để biết thêm chi tiết
+
 Admin và Mod có quyền phạt những người vi phạm một trong những diều khoản trên. Nếu bạn cảm thấy bị đối xử một cách bất công hãy liên hệ @natsukagami#3557.
