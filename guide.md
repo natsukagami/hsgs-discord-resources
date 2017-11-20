@@ -1,4 +1,5 @@
 # Lệnh gọi bot
+
 `.roles gimme [Role]` : Lấy role cho mình.
 
 Các Role hiện có trong đây :
@@ -8,7 +9,6 @@ Các Role hiện có trong đây :
 Role phân chia khối chuyên. Role này sẽ giúp bạn trở nên màu mè hơn.
 
 `Owners`
-
 
 Role của người chủ sở hữu server này.
 
