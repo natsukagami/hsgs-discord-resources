@@ -32,7 +32,7 @@ Những người không phải là học sinh HSGS, và lên đây với mục �
 
 Những người có tâm hồn trong sáng. Role này sẽ giúp bạn vào một vài nơi đặc biệt. ( ͡° ͜ʖ ͡°)
 
-Với những người đã dành thời gian đọc đến đây, {một_từ_đặc_biệt} là một trong số những từ sau đây.
+Với những người đã dành thời gian đọc đến đây, {một-từ-đặc-biệt} là một trong số những từ sau đây.
 + `Mathematics` : Chuyên Toán
 + `Informatics` : Chuyên Tin
 + `Physics` : Chuyên Lý
