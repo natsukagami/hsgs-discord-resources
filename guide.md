@@ -20,7 +20,7 @@ Role của các Mod, người phụ trách việc kiểm duyệt các bài viế
 
 Bot của server, người quản lí các thao tác tự động hóa trong server.
 
-`HAC/HEC/HVGS/HAPAC`
+`HAC/HEC/HVSG/HAPAC`
 
 Role phân chia câu lạc bộ. Role này giúp bạn khoe và quảng cáo cho câu lạc bộ mình.
 
