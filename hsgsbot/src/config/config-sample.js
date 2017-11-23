@@ -43,7 +43,11 @@ export default {
 		/**
 		 * Debugging channel
 		 */
-		debugChannel: ''
+		debugChannel: '',
+		/**
+		 * The bot channel. By default the bot should only listen on this channel.
+		 */
+		botChannel: '',
 	},
 	welcomeModule: {
 		/**
@@ -67,5 +71,17 @@ export default {
 		 * The specific 'All-members' role.
 		 */
 		memberRole: ''
+	},
+	rolesModule: {
+		/**
+		 * The map of all self-assignable roles.
+		 * @type {Map<string, {id: string, description: string, requireHSGS: boolean}>}
+		 */
+		mapRoles: new Map(),
+		/**
+		 * The non-HSGS role, which cannot access HSGS-only roles.
+		 * @type {string}
+		 */
+		nonHSGSRole: ''
 	}
 };
