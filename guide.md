@@ -4,7 +4,7 @@
 
 Các Role hiện có trong đây :
 
-`Infomatics/Physics/Chemistry/Mathematics/Biology/High Quality`
+`Informatics/Physics/Chemistry/Mathematics/Biology/High Quality`
 
 Role phân chia khối chuyên. Role này sẽ giúp bạn trở nên màu mè hơn.
 
