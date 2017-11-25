@@ -1,4 +1,4 @@
-# Một vài luật lệ
+Một vài luật lệ (Tag Picture)
 
 1. **Tôn trọng, giữ phép lịch sự tối thiểu với mọi người trong cộng đồng.**
   + Giả danh một người khác (ví dụ thầy Lương), cho dù người đó có ở trong server hay không sẽ không được bỏ qua.
@@ -20,7 +20,7 @@
 
 6. **Những gì ở trên Discord, sẽ chỉ ở trên Discord** Những gì sao chép ra ngoài đều là phạm quy, và người để lộ thông tin sẽ bị chặn không thương tiếc.
 
-7. **Nhớ rằng đây là một server với rất nhiều người** Nếu muốn vào và tham gia giao lưu văn hóa với mọi người, hãy nhập lệnh ".hi iam {một_từ_đặc_biệt}" vào channel ticket-box.
+7. **Nhớ rằng đây là một server với rất nhiều người** Nếu muốn vào và tham gia giao lưu văn hóa với mọi người, hãy nhập lệnh `.hi iam {một-từ-đặc-biệt}` vào channel ticket-box.
 
 8. **Tôn trọng các đề nghị và yêu cầu đến từ Admin hoặc Mod.** Có thái độ chống đối với yêu cầu nghiêm túc và thỏa đáng có thể dẫn tới việc bị đuổi hoặc chặn khỏi server.
 
